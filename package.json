@@ -1,0 +1,25 @@
+{
+  "name": "hello-world-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo \"No build step needed\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaryNkoana01/deploy-static-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MaryNkoana01/deploy-static-app/issues"
+  },
+  "homepage": "https://github.com/MaryNkoana01/deploy-static-app#readme"
+}
