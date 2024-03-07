@@ -21,5 +21,6 @@
   "bugs": {
     "url": "https://github.com/MaryNkoana01/deploy-static-app/issues"
   },
-  "homepage": "https://github.com/MaryNkoana01/deploy-static-app#readme"
+  "homepage": "https://github.com/MaryNkoana01/deploy-static-app#readme",
+  "devDependencies": {}
 }
